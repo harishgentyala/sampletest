@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_module">
+    <sys_aw_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <content/>
+        <content_attrs/>
+        <content_component/>
+        <content_tag/>
+        <detail/>
+        <detail_attrs/>
+        <detail_component/>
+        <detail_tag/>
+        <hide_until_ready>true</hide_until_ready>
+        <icon>phone-outline</icon>
+        <id>cti</id>
+        <label>Phone</label>
+        <order>300</order>
+        <roles/>
+        <sys_class_name>sys_aw_module</sys_class_name>
+        <sys_created_by>harish.gentyala@snc</sys_created_by>
+        <sys_created_on>2019-10-14 06:01:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>e4fe35e4dba40c504de4ffa31d96199c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cti</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="sampleTest" source="x_snc_sampletest">2f7e3564dba40c504de4ffa31d9619c6</sys_package>
+        <sys_policy/>
+        <sys_props/>
+        <sys_scope display_value="sampleTest">2f7e3564dba40c504de4ffa31d9619c6</sys_scope>
+        <sys_update_name>sys_aw_module_e4fe35e4dba40c504de4ffa31d96199c</sys_update_name>
+        <sys_updated_by>harish.gentyala@snc</sys_updated_by>
+        <sys_updated_on>2019-10-14 06:01:27</sys_updated_on>
+        <toolbar_button display_value="Phone Button">a8fe35e4dba40c504de4ffa31d96199c</toolbar_button>
+        <type>win</type>
+        <workspace_config display_value="sampleTest">b7eef1e4dba40c504de4ffa31d9619f0</workspace_config>
+    </sys_aw_module>
+    <sys_variable_value action="delete_multiple" query="document_key=e4fe35e4dba40c504de4ffa31d96199c"/>
+</record_update>

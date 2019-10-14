@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list">
+    <sys_aw_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Biodatas">50fe35e4dba40c504de4ffa31d96193b</category>
+        <columns>name,sys_class_name,sys_created_by,sys_created_on,sys_id,sys_mod_count,sys_tags,sys_updated_by,sys_updated_on</columns>
+        <condition/>
+        <groups/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_aw_list</sys_class_name>
+        <sys_created_by>harish.gentyala@snc</sys_created_by>
+        <sys_created_on>2019-10-14 06:01:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>dcfe35e4dba40c504de4ffa31d96193e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="sampleTest" source="x_snc_sampletest">2f7e3564dba40c504de4ffa31d9619c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sampleTest">2f7e3564dba40c504de4ffa31d9619c6</sys_scope>
+        <sys_update_name>sys_aw_list_dcfe35e4dba40c504de4ffa31d96193e</sys_update_name>
+        <sys_updated_by>harish.gentyala@snc</sys_updated_by>
+        <sys_updated_on>2019-10-14 06:01:25</sys_updated_on>
+        <table>x_snc_sampletest_biodata</table>
+        <title>All</title>
+        <workspace display_value="sampleTest">b7eef1e4dba40c504de4ffa31d9619f0</workspace>
+    </sys_aw_list>
+</record_update>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_module">
+    <sys_aw_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <content display_value="Home Module Content">64fe35e4dba40c504de4ffa31d961967</content>
+        <content_attrs/>
+        <content_component display_value="sn-workspace-home">5012e92bff222300294153bd6338f159</content_component>
+        <content_tag/>
+        <detail/>
+        <detail_attrs/>
+        <detail_component/>
+        <detail_tag/>
+        <hide_until_ready>false</hide_until_ready>
+        <icon>home-outline</icon>
+        <id>home</id>
+        <label>Home</label>
+        <order>0</order>
+        <roles/>
+        <sys_class_name>sys_aw_module</sys_class_name>
+        <sys_created_by>harish.gentyala@snc</sys_created_by>
+        <sys_created_on>2019-10-14 06:01:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>18fe35e4dba40c504de4ffa31d961943</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>home</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="sampleTest" source="x_snc_sampletest">2f7e3564dba40c504de4ffa31d9619c6</sys_package>
+        <sys_policy/>
+        <sys_props/>
+        <sys_scope display_value="sampleTest">2f7e3564dba40c504de4ffa31d9619c6</sys_scope>
+        <sys_update_name>sys_aw_module_18fe35e4dba40c504de4ffa31d961943</sys_update_name>
+        <sys_updated_by>harish.gentyala@snc</sys_updated_by>
+        <sys_updated_on>2019-10-14 06:01:26</sys_updated_on>
+        <toolbar_button display_value="Home Button">90fe35e4dba40c504de4ffa31d961944</toolbar_button>
+        <type>full</type>
+        <workspace_config display_value="sampleTest">b7eef1e4dba40c504de4ffa31d9619f0</workspace_config>
+    </sys_aw_module>
+    <sys_variable_value action="delete_multiple" query="document_key=18fe35e4dba40c504de4ffa31d961943"/>
+</record_update>
